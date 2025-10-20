@@ -6,7 +6,7 @@ By: **Nigist Legesse**
 
 Time spent: **8** hours spent in total
 
-## Required Features
+## Features
 
 The following functionality is **completed**:
 
@@ -18,7 +18,7 @@ The following functionality is **completed**:
 - [x] User sees a visual change after guessing the correct word
 - [x] User can tap a 'Reset' button to get a new word and clear previous guesses
 
-The following features are in the progress implemented:
+Future Upgrades:
 
 - [ ] User can toggle betweeen different word lists
 - [ ] User will get an error message if they input an invalid guess
@@ -31,10 +31,8 @@ Here's a walkthrough of implemented user stories:
 
 <img src='https://i.imgur.com/oEc65l2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-<!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
-<!-- Recommended tools:
- Snipping tool -->
+--->Snipping tool
 
 ## Notes
 
